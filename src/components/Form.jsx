@@ -42,7 +42,7 @@ const Form = () => {
                                         </div>
                                 </form>
                                 <div className="text-center">
-                                        <span className="text-sm text-gray-500 font-secondary">Don't have an account? <a className="text-blue-600 text-sm font-semibold" href="#">Register here</a></span>
+                                        <span className="text-sm text-gray-500 font-secondary">Don't have an account? <a onClick={googleSignIn} className="text-blue-600 text-sm font-semibold" href="#">Register here</a></span>
                                 </div>
                         </div>
                 </div>
