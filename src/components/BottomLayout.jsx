@@ -77,7 +77,7 @@ const BottomLayout = ({data}) => {
                                                         <span className="text-sm text-gray-500 flex items-center">See All <HiOutlineChevronRight className="ml-1" /></span>
                                                 </div>
                                         </div>
-                                        <div className="text-content space-y-4 my-6">
+                                        <div className="text-content space-y-4 my-6  font-secondary ">
                                                 <div className="item border-l-4 border-green-300">
                                                         <div className="px-3">
                                                                 <h4 className="font-bold text-md">Meeting with suppliers from Kuta Bali</h4>

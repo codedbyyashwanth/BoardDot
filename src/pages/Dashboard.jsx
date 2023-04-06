@@ -47,7 +47,7 @@ const Dashboard = ()=> {
                                 <div className="dashboard-header flex justify-between items-center">
                                         <h3 className="text-2xl font-bold">Dashboard</h3>
                                         <div className="profile-container flex items-center space-x-6">
-                                                <div className="input-group  bg-white rounded-lg h-10 flex items-center  px-4">
+                                                <div className="input-group  bg-white rounded-lg h-10 flex items-center  px-4  font-secondary ">
                                                         <input className="outline-none border-none" type="text" id="search" placeholder="Search..." />
                                                         <HiSearch className="text-xl text-gray-400" />
                                                 </div>

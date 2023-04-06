@@ -37,7 +37,7 @@ const Revenue = () => {
                                                         <div className=" flex justify-end">
                                                                 {items.element}
                                                         </div>
-                                                        <p className=" text-sm font-semibold">{items.label}</p>
+                                                        <p className=" font-secondary text-sm ">{items.label}</p>
                                                         <h1 className="text-2xl font-bold mt-1">{items.price}</h1>
                                                 </div>
                                         ))

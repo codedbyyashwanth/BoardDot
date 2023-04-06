@@ -38,7 +38,7 @@ const Form = () => {
                                         </div>
                                         <a className="block my-4 text-blue-600 text-sm font-semibold" href="#">Forgot password?</a>
                                         <div className="input-group text-center">
-                                                <a className=" bg-black w-full rounded-lg text-white block py-3 font-semibold cursor-pointer hover:bg-gray-700 font-primary" onClick={googleSignIn}>Sign In</a>
+                                                <a className=" bg-black w-full rounded-lg text-white block py-2 font-semibold cursor-pointer hover:bg-gray-700 font-primary" onClick={googleSignIn}>Sign In</a>
                                         </div>
                                 </form>
                                 <div className="text-center">
